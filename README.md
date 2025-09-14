@@ -1,6 +1,6 @@
 # Cartellera Interactiva de Pel·lícules - Prova Tècnica
 
-**Demo en Viu:** [**aquí-va-el-teu-enllaç-a-vercel.app**](https://aquí-va-el-teu-enllaç-a-vercel.app)
+**Demo en Viu:** [**aquí-va-el-teu-enllaç-a-vercel.app**](https://app-pelicules.vercel.app/)
 
 ## Descripció del Projecte
 
